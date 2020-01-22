@@ -1,7 +1,7 @@
 
 To run this code, you will need access to Spotify's Web API along with some packages: 
-  -Matplotlib 
-  -numpy 
+  -Matplotlib installation information: https://matplotlib.org/3.1.0/users/installing.html
+  -Numpy installation information: https://www.scipy.org/install.html
   -Spotipy (Python library for the Spotify Web API: https://github.com/plamere/spotipy) installed by: pip install spotipy
   
 In order pull any information, whether it be personal or public, you will need to go to Spotify's 'Spotify for developers': https://developer.spotify.com/ From here you will need to create a Spotify login, if you do not already have one. You will then need to register your app (you can do this even if you do not have an app created yet). Once you have completed the registration, they will supply you with a Client Id and a Client Secret. You will need this information to run this code.
